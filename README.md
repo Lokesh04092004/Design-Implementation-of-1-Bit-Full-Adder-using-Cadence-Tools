@@ -1,5 +1,5 @@
 # Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
-Ex No: 04     Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
+Ex No: 05     Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
 
 Aim:
 To design and implement a 1-bit full adder circuit using Cadence EDA tools and to understand its behavior in digital arithmetic operations.
@@ -47,8 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
+![1731741513819](https://github.com/user-attachments/assets/fd19cac7-fc51-4118-a1f3-e28dccc88eaa)
 
-![IMG-20241019-WA0034](https://github.com/user-attachments/assets/08a8f278-00e2-44d9-8420-a3fcf0586a7e)
 
 
  
@@ -66,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035](https://github.com/user-attachments/assets/dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9)
+![1731741513819](https://github.com/user-attachments/assets/24efa780-e9dd-444c-9458-6d07bbb8d1b1)
+
 
 
 
@@ -94,12 +95,13 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![IMG-20241019-WA0033](https://github.com/user-attachments/assets/3f603cf1-7394-4561-ae07-fbe55615e8be)
+![1731741513801](https://github.com/user-attachments/assets/9c65a717-1392-455f-9366-7c90de6dcf2e)
+
 
 
 For Transient Analysis Settings and Output
  
-![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
+![1731741513793](https://github.com/user-attachments/assets/da61dc38-774a-4581-8bcb-6d7173aa6385)
 
 
  
